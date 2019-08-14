@@ -1,0 +1,126 @@
+# Translation of Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-08-01 21:16:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#: movabletype-importer.php:209
+msgid "Below, you can see the names of the authors of the Movable Type posts in <em>italics</em>. For each of these names, you can either pick an author in your WordPress installation from the menu, or enter a name for the author in the textbox."
+msgstr "Di bawah ini, Anda dapat melihat nama-nama penulis dari tulisan Movable Type <em>dicetak miring</em>. Untuk setiap nama-nama ini, Anda dapat memilih penulis dalam instalasi WordPress Anda dari menu tersebut, atau masukkan sebuah nama untuk penulis dalam kotak teks."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/movabletype-importer/"
+msgstr "http://wordpress.org/extend/plugins/movabletype-importer/"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: movabletype-importer.php:260
+msgid "Post <em>%s</em> already exists."
+msgstr "Tulisan <em>%s</em> sudah ada."
+
+#: movabletype-importer.php:263
+msgid "Importing post <em>%s</em>..."
+msgstr "Mengimpor tulisan <em>%s</em>..."
+
+#: movabletype-importer.php:281
+msgid "Adding tags <em>%s</em>..."
+msgstr "Menambahkan tag <em>%s</em>..."
+
+#: movabletype-importer.php:300
+msgid "(%s comment)"
+msgid_plural "(%s comments)"
+msgstr[0] "(%s komentar)"
+msgstr[1] "(%s komentar)"
+
+#: movabletype-importer.php:317
+msgid "(%s ping)"
+msgid_plural "(%s pings)"
+msgstr[0] "(%s ping)"
+msgstr[1] "(%s ping)"
+
+#: movabletype-importer.php:481
+msgid "All done. <a href=\"%s\">Have fun!</a>"
+msgstr "Beres. <a href=\"%s\">Selamat menikmati!</a>"
+
+#: movabletype-importer.php:527
+msgid "Movable Type and TypePad"
+msgstr "Movable Type dan TypePad"
+
+#. #-#-#-#-#  tmp-movabletype-importer.pot (Movable Type and TypePad Importer
+#. 0.4)  #-#-#-#-#
+#. Description of the plugin/theme
+#: movabletype-importer.php:527
+msgid "Import posts and comments from a Movable Type or TypePad blog."
+msgstr "Impor tulisan dan komentar dari blog Movable Type atau TypePad."
+
+#. Plugin Name of the plugin/theme
+msgid "Movable Type and TypePad Importer"
+msgstr "Importir Movable Type dan TypePad"
+
+#: movabletype-importer.php:226
+msgid "Submit"
+msgstr "Kirim"
+
+#: movabletype-importer.php:236
+msgid "<code>mt-export.txt</code> does not exist"
+msgstr "<code>mt-export.txt</code> tidak ada"
+
+#: movabletype-importer.php:242
+msgid "Sorry, there has been an error"
+msgstr "Maaf, telah terjadi kesalahan"
+
+#: movabletype-importer.php:210
+msgid "If a new user is created by WordPress, a password will be randomly generated. Manually change the user&#8217;s details if necessary."
+msgstr "Jika pengguna baru dibuat oleh Wordpress, sebuah kata sandi akan diciptakan secara acak. Ubahlah secara manual riwayat pengguna tadi jika diperlukan."
+
+#: movabletype-importer.php:63
+msgid "Or use <code>mt-export.txt</code> in your <code>/wp-content/</code> directory"
+msgstr "Atau gunakan <code>mt-export.txt</code> di dalam direktori <code>/wp-content/</code> Anda"
+
+#: movabletype-importer.php:44
+msgid "Import Movable Type or TypePad"
+msgstr "Impor Movable Type atau TypePad"
+
+#: movabletype-importer.php:55
+msgid "Howdy! We are about to begin importing all of your Movable Type or TypePad entries into WordPress. To begin, either choose a file to upload and click &#8220;Upload file and import&#8221;, or use FTP to upload your MT export file as <code>mt-export.txt</code> in your <code>/wp-content/</code> directory and then click &#8220;Import mt-export.txt&#8221;."
+msgstr "Halo! Kami akan mulai mengimpor semua entri dari Movable Type atau TypePad Anda ke dalam WordPress. Untuk memulai, cukup pilih berkas untuk diunggah dan klik \"Unggah berkas dan impor\", atau menggunakan FTP untuk mengunggah berkas ekspor MT Anda sebagai <code>mt-export.txt</code> di dalam direktori <code>/wp-content/</code> Anda dan kemudian klik &#8220;Impor mt-export.txt&#8221;."
+
+#: movabletype-importer.php:77
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Pilih &mdash;"
+
+#: movabletype-importer.php:207
+msgid "Assign Authors"
+msgstr "Tetapkan Penulis"
+
+#: movabletype-importer.php:208
+msgid "To make it easier for you to edit and save the imported posts and drafts, you may want to change the name of the author of the posts. For example, you may want to import all the entries as admin&#8217;s entries."
+msgstr "Untuk memudahkan Anda ketika menyunting dan menyimpan tulisan dan naskah yang diimpor, Anda mungkin ingin mengubah nama penulis dari tulisan-tulisan tersebut. Sebagai contoh, Anda mungkin ingin mengimpor semua entri sebagai entri admin."
+
+#: movabletype-importer.php:68
+msgid "The importer is smart enough not to import duplicates, so you can run this multiple times without worry if&#8212;for whatever reason&#8212;it doesn&#8217;t finish. If you get an <strong>out of memory</strong> error try splitting up the import file into pieces."
+msgstr "Importir cukup pintar untuk tidak mengimpor tulisan duplikat, sehingga Anda dapat menjalankan beberapa kali tanpa khawatir akibat alasan apa pun pengimpor tidak bisa menyelesaikan tugasnya. Jika Anda mendapatkan galat <strong>kehabisan memori</strong>, cobalah pisahkan berkas impor menjadi beberapa potongan."
+
+#: movabletype-importer.php:65
+msgid "Import mt-export.txt"
+msgstr "Impor mt-export.txt"
+
+#: movabletype-importer.php:221
+msgid "Current author:"
+msgstr "Penulis saat ini:"
+
+#: movabletype-importer.php:221
+msgid "Create user %1$s or map to existing"
+msgstr "Ciptakan pengguna %1$s atau petakan yang sudah ada"

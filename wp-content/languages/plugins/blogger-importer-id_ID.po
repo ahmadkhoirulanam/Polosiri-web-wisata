@@ -1,0 +1,258 @@
+# Translation of Development (trunk) in Indonesian
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-02-18 23:56:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: blogger-importer-blog.php:493
+msgid "%d image skipped"
+msgid_plural "%d images skipped"
+msgstr[0] "%d gambar dilewati"
+msgstr[1] "%d gambar dilewati"
+
+#: blogger-importer-blog.php:488
+msgid "%d post skipped"
+msgid_plural "%d posts skipped"
+msgstr[0] "%d pos dilewati"
+msgstr[1] "%d pos dilewati"
+
+#: blogger-importer-blog.php:491
+msgid "%d comment skipped"
+msgid_plural "%d comments skipped"
+msgstr[0] "%d komentar dilewati"
+msgstr[1] "%d komentar dilewati"
+
+#. Description of the plugin/theme
+msgid "Imports posts, comments, images and tags from a Blogger blog then migrates authors to WordPress users."
+msgstr "Impor pos, komentar, gambar dan tag dari sebuah blog Blogger kemudian jadikan penulis sebagai pengguna WordPress."
+
+#: blogger-importer.php:208
+msgid "Refresh blog list"
+msgstr "Segarkan daftar blog"
+
+#: blogger-importer.php:349
+msgid "Show blogs"
+msgstr "Tampilkan blog"
+
+#: blogger-importer.php:342
+msgid "Convert categories to tags"
+msgstr "Konversikan kategori ke tag"
+
+#: blogger-importer-connector.php:32
+msgid "OpenSSL is not installed check your PHP.INI or ask your server provider to enable the OpenSSL module."
+msgstr "OpenSSL tidak terinstal, periksa PHP.INI atau minta provider server Anda mengaktifkan modul OpenSSL."
+
+#: blogger-importer.php:111
+msgid "Error occurred getting OAuth tokens from Google"
+msgstr "Galat saat mengambil token OAuth dari Google"
+
+#: blogger-importer.php:87
+msgid "Import categories, posts, images and comments then maps users from a Blogger blog."
+msgstr "Impor kategori, pos, gambar, dan komentar kemudian petakan para pengguna dari sebuah blog Blogger."
+
+#: blogger-importer-blog.php:712
+msgid "None of the images are valid"
+msgstr "Tak satupun gambar yang sah"
+
+#: blogger-importer-blog.php:487 blogger-importer-blog.php:490
+#: blogger-importer-table.php:55 blogger-importer-table.php:59
+msgid "%d of %d"
+msgstr "%d dari %d"
+
+#: blogger-importer-blog.php:447 blogger-importer-blog.php:768
+msgid "Attempting to write back empty content"
+msgstr "Berusaha untuk menulis ulang konten yang kosong"
+
+#: blogger-importer-blog.php:676
+msgid "Lowrez not an image"
+msgstr "Lowrez bukan gambar"
+
+#: blogger-importer-table.php:23
+msgid "Images"
+msgstr "Gambar"
+
+#: blogger-importer-table.php:24
+msgid "Links"
+msgstr "Tautan"
+
+#: blogger-importer-table.php:25
+msgid "Action Button"
+msgstr "Tombol Aksi"
+
+#: blogger-importer-connector.php:65
+msgid "Invalid Token: Check server date, firewall settings and transports (curl, streams and fsockopen)"
+msgstr "Token Tidak Sah: Cek penanggalan server, pengaturan firewall dan transports (curl, streams dan fsockopen)"
+
+#: blogger-importer.php:340
+msgid "Review posts"
+msgstr "Tinjau ulang post"
+
+#: blogger-importer.php:341
+msgid "Review categories"
+msgstr "Tinjau ulang kategori"
+
+#: blogger-importer.php:343
+msgid "Review comments"
+msgstr "Tinjau ulang komentar"
+
+#: blogger-importer.php:344
+msgid "Review media"
+msgstr "Tinjau ulang media"
+
+#: blogger-importer.php:107 blogger-importer.php:207
+msgid "Import Blogger"
+msgstr "Impor Blogger"
+
+#: blogger-importer.php:108
+msgid "Howdy! This importer allows you to import posts and comments from your Blogger account into your WordPress site."
+msgstr "Halo! Importir ini memungkinkan Anda untuk mengimpor entri dan komentar dari akun Blogger Anda ke situs WordPress Anda."
+
+#: blogger-importer.php:109
+msgid "To use this importer, you must have a Google account and an upgraded (New, was Beta) blog hosted on blogspot.com or a custom domain (not FTP)."
+msgstr "Untuk menggunakan importir ini, Anda harus memiliki akun Google dan blog yang telah diperbarui (Baru, sebelumnya Beta) yang di-host di blogspot.com atau domain Anda sendiri (bukan FTP)."
+
+#: blogger-importer.php:110
+msgid "The first thing you need to do is tell Blogger to let WordPress access your account. You will be sent back here after providing authorization."
+msgstr "Hal pertama yang perlu Anda lakukan adalah memberitahu Blogger untuk membiarkan WordPress mengakses akun Anda. Anda akan dikirim kembali kemari setelah memberikan otorisasi."
+
+#: blogger-importer-connector.php:80
+msgid "Authorize"
+msgstr "Otorisasi"
+
+#: blogger-importer.php:443
+msgid "Trouble signing in"
+msgstr "Masalah ketika log masuk"
+
+#: blogger-importer.php:443
+msgid "We were not able to gain access to your account. Try starting over."
+msgstr "Kami tidak dapat mendapatkan akses ke akun Anda. Coba mulai lagi dari awal."
+
+#: blogger-importer.php:446
+msgid "No blogs found"
+msgstr "Tidak ditemukan blog"
+
+#: blogger-importer.php:446
+msgid "We were able to log in but there were no blogs. Try a different account next time."
+msgstr "Kami dapat log masuk, tetapi tidak ada blog. Coba akun yang lainnya."
+
+#: blogger-importer-table.php:71
+msgid "Import"
+msgstr "Impor"
+
+#: blogger-importer-table.php:72 blogger-importer.php:94
+msgid "Continue"
+msgstr "Lanjut"
+
+#: blogger-importer-table.php:73 blogger-importer.php:94
+msgid "Importing..."
+msgstr "Mengimpor..."
+
+#: blogger-importer-table.php:74 blogger-importer.php:95
+msgid "Set Authors"
+msgstr "Atur Penulis"
+
+#: blogger-importer.php:95
+msgid "Preparing author mapping form..."
+msgstr "Menyiapkan formulir pemetaan penulis..."
+
+#: blogger-importer.php:96
+msgid "Final Step: Author Mapping"
+msgstr "Langkah Terakhir: Pemetaan Penulis"
+
+#: blogger-importer.php:95
+msgid "Nothing was imported. Had you already imported this blog?"
+msgstr "Tidak ada yang diimpor. Apakah Anda sudah diimpor blog ini?"
+
+#: blogger-importer-table.php:19
+msgid "Blog Name"
+msgstr "Nama Blog"
+
+#: blogger-importer-table.php:20
+msgid "Blog URL"
+msgstr "URL Blog"
+
+#: blogger-importer-table.php:21
+msgid "Posts"
+msgstr "Tulisan"
+
+#: blogger-importer-table.php:22
+msgid "Comments"
+msgstr "Komentar"
+
+#: blogger-importer.php:205
+msgid "This feature requires Javascript but it seems to be disabled. Please enable Javascript and then reload this page. Don&#8217;t worry, you can turn it back off when you&#8217;re done."
+msgstr "Fitur ini membutuhkan Javascript tetapi tampaknya sedang dinonaktifkan. Silakan aktifkan Javascript dan kemudian muat ulang halaman ini. Jangan khawatir, Anda bisa mengubahnya menjadi nonaktif kembali ketika Anda sudah selesai."
+
+#: blogger-importer.php:277
+msgid "All posts were imported with the current user as author. Use this form to move each Blogger user&#8217;s posts to a different WordPress user. You may <a href=\"%s\">add users</a> and then return to this page and complete the user mapping. This form may be used as many times as you like until you activate the &#8220;Restart&#8221; function below."
+msgstr "Semua tulisan diimpor dengan pengguna saat ini sebagai penulis. Gunakan formulir ini untuk memindahkan tulisan setiap pengguna Blogger ke pengguna WordPress yang berbeda. Anda dapat <a href=\"%s\">menambahkan pengguna</a> dan kemudian kembali ke halaman ini dan menyelesaikan pemetaan pengguna. Formulir ini dapat digunakan sesering Anda inginkan sampai Anda mengaktifkan fungsi &#8220;Mulai lagi&#8221; di bawah ini."
+
+#: blogger-importer.php:279
+msgid "Author mapping"
+msgstr "Pemetaan penulis"
+
+#: blogger-importer.php:281
+msgid "Blogger username"
+msgstr "Nama pengguna Blogger"
+
+#: blogger-importer.php:282
+msgid "WordPress login"
+msgstr "Log masuk WordPress"
+
+#: blogger-importer.php:283
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: blogger-importer.php:327
+msgid "Congratulations!"
+msgstr "Selamat!"
+
+#: blogger-importer.php:327
+msgid "Now that you have imported your Blogger blog into WordPress, what are you going to do? Here are some suggestions:"
+msgstr "Sekarang Anda telah mengimpor Blogger Anda ke blog WordPress, apa yang akan Anda lakukan? Berikut adalah beberapa saran:"
+
+#: blogger-importer.php:348
+msgid "In case you haven&#8217;t done it already, you can import the posts from your other blogs:"
+msgstr "Bila Anda belum melakukannya, Anda dapat mengimpor tulisan dari blog lain:"
+
+#: blogger-importer.php:331
+msgid "For security, click the link below to reset this importer."
+msgstr "Untuk keamanan, klik taut di bawah ini untuk me-reset importir ini."
+
+#: blogger-importer.php:459
+msgid "Restart"
+msgstr "Mulai lagi"
+
+#: blogger-importer.php:460
+msgid "We have saved some information about your Blogger account in your WordPress database. Clearing this information will allow you to start over. Restarting will not affect any posts you have already imported. If you attempt to re-import a blog, duplicate posts and comments will be skipped."
+msgstr "Kami simpan beberapa informasi tentang akun Blogger Anda dalam basis data WordPress Anda. Menghapus informasi ini memungkinkan Anda untuk memulai kembali dari awal. Mulai lagi tidak akan mempengaruhi tulisan apapun yang telah diimpor. Jika Anda mencoba untuk impor kembali sebuah blog, tulisan dan komentar duplikat akan dilewati."
+
+#: blogger-importer.php:462
+msgid "Clear account information"
+msgstr "Hapus informasi akun"
+
+#: blogger-importer.php:87
+msgid "Blogger"
+msgstr "Blogger"
+
+#. Plugin Name of the plugin/theme
+msgid "Blogger Importer"
+msgstr "Importir Blogger"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/blogger-importer/"
+msgstr "http://wordpress.org/extend/plugins/blogger-importer/"
+
+#. Author of the plugin/theme
+msgid "wordpressdotorg"
+msgstr "wordpressdotorg"
+
+#. Author URI of the plugin/theme
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
